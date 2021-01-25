@@ -96,7 +96,7 @@ int main(void)
   while (1)
   {
 	  asd = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_3);
-	  HAL_Delay(10);
+	  //HAL_Delay(10);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
